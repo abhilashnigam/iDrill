@@ -1,0 +1,12 @@
+Package: iDrill
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: Abhilash Nigam <abhilashnigam@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/iDrill.deb
+Size: 14306
+MD5sum: 37fe7cfc1ef99f51933a97e6aa81e9a1
+Description: iOS Static Testing tool 
+Name: iDrill
+Author: Abhilash Nigam <abhilashnigam@gmail.com>
+Depiction: https://abhilashnigam.github.io/iDrill/depictions/?p=iDrill
