@@ -4,8 +4,8 @@ Section: Tweaks
 Maintainer: Abhilash Nigam <abhilashnigam@gmail.com>
 Architecture: iphoneos-arm
 Filename: ./debs/iDrill.deb
-Size: 14306
-MD5sum: 37fe7cfc1ef99f51933a97e6aa81e9a1
+Size: 14304
+MD5sum: 265525d7f61a1dbebf37e12b87f728ff
 Description: iOS Static Testing tool 
 Name: iDrill
 Author: Abhilash Nigam <abhilashnigam@gmail.com>
