@@ -14,6 +14,7 @@
 	<dependencies></dependencies>
 	<descriptionlist>
 		<description>This tool is for iOS Static Analysis</description>
+		<description>This tool depends upon OTOOL, SQLITE3, GAWK to be pre-installed on the phone</description>
 		<description>To run the tool SSH into a Jailbroken Device</description>
 		<description>Type iDrill on terminal and Enjoy !!!</description>
 	</descriptionlist>
