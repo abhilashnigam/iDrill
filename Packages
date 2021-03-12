@@ -2,7 +2,7 @@ Package: com.abhilashnigam.iDrill
 Version: 0.2
 Architecture: iphoneos-arm
 Maintainer: "Abhilash Nigam <abhilashnigam@localh0st.xyz>"
-Filename: ./iDrill-0.2.deb
+Filename: ./debs/iDrill-0.2.deb
 Size: 7760
 MD5sum: 2bcdee93e2b2e1caa4805e817c68138b
 SHA1: dbc143ac91266863c6958725c6adcee061d774f6
@@ -18,7 +18,7 @@ Package: idrill
 Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: "Abhilash Nigam <abhilashnigam@gmail.com>"
-Filename: ./iDrill.deb
+Filename: ./debs/iDrill.deb
 Size: 14304
 MD5sum: 265525d7f61a1dbebf37e12b87f728ff
 SHA1: fc1fd7a38e3729ff530a168a6d4465fde96b5759
