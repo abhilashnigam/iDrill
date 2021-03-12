@@ -5,7 +5,11 @@
 	<compatibility>
 		<firmware></firmware>
 	</compatibility>
-	<dependencies></dependencies>
+	<dependencies>
+		<package>com.autopear.installipa</package>
+		<package>gawk</package>
+		<package>org.coolstar.cctools</package>
+	</dependencies>
 	<descriptionlist>
 		<description>This tool is for iOS Static Analysis</description>
 		<description>This tool depends upon OTOOL, SQLITE3, GAWK to be pre-installed on the phone</description>
