@@ -1,0 +1,33 @@
+Package: com.abhilashnigam.iDrill
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: "Abhilash Nigam <abhilashnigam@localh0st.xyz>"
+Depends: gawk, com.autopear.installipa, org.coolstar.cctools, sqlite3, com.bingner.plutil, unzip, wget
+Filename: ./debs/iDrill-0.2.deb
+Size: 7832
+MD5sum: d79e8d19fdc57130c7ccdc682357d2cc
+SHA1: 1ec180a5806ddce2c700e218629cbd015d1a557c
+SHA256: f3c5726e866b5733d79fc520e97ccc4d042d8a9cb66d446b88c026b6f5c5ae10
+Section: "Utilties"
+Homepage: "https://localh0st.xyz/idrill/"
+Description: "Binary script to help users perform static analysis of iOS Applications"
+Author: "Abhilash Nigam <abhilashnigam@localh0st.xyz>"
+Depiction: "https://localh0st.xyz/iDrill/depictions/?p=com.abhilashnigam.iDrill"
+Name: iDrill-v2
+
+Package: idrill
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: "Abhilash Nigam <abhilashnigam@gmail.com>"
+Filename: ./debs/iDrill.deb
+Size: 14304
+MD5sum: 265525d7f61a1dbebf37e12b87f728ff
+SHA1: fc1fd7a38e3729ff530a168a6d4465fde96b5759
+SHA256: 3093ca1c62ec783538ba8acdf8d3e0b30565427b458fdc5f5975fcc1b8a12a8a
+Section: "Utilties"
+Homepage: "https://abhilashnigam.github.io/iDrill/"
+Description: "iOS Static Ananlysis tool"
+Author: "Abhilash Nigam <abhilashnigam@gmail.com>"
+Depiction: "https://abhilashnigam.github.io/iDrill/depictions/?p=iDrill"
+Name: iDrill
+
