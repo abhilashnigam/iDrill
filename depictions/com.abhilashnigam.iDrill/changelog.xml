@@ -1,0 +1,12 @@
+<changelog>
+	<changes>
+		<version>0.2.1</version>
+		<change>Solved error for application with spaces</change>
+	</changes>
+	<changes>
+		<version>0.2</version>
+		<change>Second release</change>
+		<change>Added Keychain reading support</change>
+		<change>Added Listing of requested permissions by iOS Application</change>
+	</changes>
+</changelog>
