@@ -26,9 +26,9 @@ Add https://apt.bingner.com in the Cydia source before installing iDrill.
 
 Usage:
 
-Once the source is added in Cydia
-Install iDrill-v2
-SSH to the device ssh root@
-Run iDrill
+- Once the source is added in Cydia
+- Install iDrill-v2
+- SSH to the device ssh root@
+- Run iDrill
 
 ![Error - Reload the Page](depictions/com.abhilashnigam.iDrill/screenshots/iDrill-usage.gif)
