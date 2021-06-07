@@ -1,4 +1,4 @@
-iDrill is a static code analysis tool that performs various checks on an iOS Application such as:
+![Error - Reload the Page](CydiaIcon.png) iDrill is a static code analysis tool that performs various checks on an iOS Application such as:
 
 - Checks Architecture
 - Binary Encryption Check
